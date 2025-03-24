@@ -1,0 +1,1 @@
+// Game component logic from canvas (use latest)
